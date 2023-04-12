@@ -24,6 +24,13 @@ float run(float& x)
 
 }
 
+double run(double& x)
+{
+
+    return x;
+
+}
+
 int main()
 {
     
