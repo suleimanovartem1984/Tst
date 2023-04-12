@@ -10,6 +10,13 @@ void techLidOneLove()
 
 }
 
+int techLidOneLove(int& x)
+{
+
+    return x;
+
+}
+
 int main()
 {
     
