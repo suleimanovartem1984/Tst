@@ -17,7 +17,14 @@ int techLidOneLove(int& x)
 
 }
 
-float& techLidOneLove(float& x)
+float techLidOneLove(float& x)
+{
+
+    return x;
+
+}
+
+double techLidOneLove(double& x)
 {
 
     return x;
