@@ -17,6 +17,13 @@ int run(int& x)
 
 }
 
+float run(float& x)
+{
+
+    return x;
+
+}
+
 int main()
 {
     
