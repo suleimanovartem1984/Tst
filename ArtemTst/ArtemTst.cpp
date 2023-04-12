@@ -17,6 +17,15 @@ int techLidOneLove(int& x)
 
 }
 
+float& techLidOneLove(float& x)
+{
+
+    return x;
+
+}
+
+
+
 int main()
 {
     
